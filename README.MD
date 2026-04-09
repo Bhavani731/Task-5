@@ -91,5 +91,5 @@ This portfolio represents a complete end-to-end data analytics workflow — from
 
 ## 🔗 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/vasavi-mannam-55410629a/
-- GitHub: https://github.com/mannamvasavi10
+- LinkedIn:https://www.linkedin.com/in/kummari-bhavani-a5a8aa283?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- GitHub: https://github.com/Bhavani731
