@@ -1,7 +1,7 @@
 # 📊 Data Analytics Internship Portfolio
 
 ## 👩‍💻 About Me
-Hi 👋, I'm **Mannam Vasavi**, a B.Tech CSE student and aspiring Data Analyst.  
+Hi 👋, I'm **Kummari Bhavani**, a B.Tech CSE student and aspiring Data Analyst.  
 This repository showcases my work completed during the **Data Analytics Internship** at **ApexPlanet Software Pvt. Ltd.**
 
 ---
@@ -25,8 +25,7 @@ This internship focused on building end-to-end data analytics skills:
 - Handled missing values, duplicates, inconsistencies  
 
 🔗 Repository:  
-https://github.com/mannamvasavi10/Task1-Data-Cleaning-Project
-
+https://github.com/Bhavani731/task-1
 ---
 
 ### 🔹 Task 2: Exploratory Data Analysis (EDA)
@@ -34,8 +33,7 @@ https://github.com/mannamvasavi10/Task1-Data-Cleaning-Project
 - Created visualizations for insights  
 
 🔗 Repository:  
- https://github.com/mannamvasavi10/Task2-EDA-and-Business-Intelligence
-
+ https://github.com/Bhavani731/task-2
 ---
 
 ### 🔹 Task 3: Interactive Dashboard & Deep Analysis
@@ -44,8 +42,7 @@ https://github.com/mannamvasavi10/Task1-Data-Cleaning-Project
 - Performed segmentation analysis  
 
 🔗 Repository:  
-https://github.com/mannamvasavi10/task-3-deep-drive-analysis-and-interactive-dashboarding
-
+https://github.com/Bhavani731/Task-3
 ---
 
 ### 🔹 Task 4: Data Storytelling & Statistical Validation
@@ -53,8 +50,7 @@ https://github.com/mannamvasavi10/task-3-deep-drive-analysis-and-interactive-das
 - Performed hypothesis testing  
 
 🔗 Repository:  
- https://github.com/mannamvasavi10/Data-Storytelling-Statistical-Validation
-
+ https://github.com/Bhavani731/Task-4
 ---
 
 ## 🛠 Tools & Technologies
